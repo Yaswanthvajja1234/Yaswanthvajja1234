@@ -113,10 +113,6 @@ Incident Response        ████████████████░░�
 - 🌐 Exploring **cloud security** on AWS
 - 🤖 Learning **AI/ML applications** in cybersecurity
 
-## 📈 LeetCode Progress
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Yaswanthvajja2004?theme=dark&font=Fira%20Code)](https://leetcode.com/u/Yaswanthvajja2004/)
-
 ## 🤝 Let's Connect!
 
 <div align="center">
